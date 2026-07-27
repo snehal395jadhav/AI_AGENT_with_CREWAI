@@ -6,7 +6,7 @@ from reportlab.lib.styles import getSampleStyleSheet
 import os
 
 # ================== 🔑 ADD YOUR OPENROUTER API KEY HERE ==================
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 # ==========================================================================
 
 # ================= PAGE CONFIG =================
