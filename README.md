@@ -32,7 +32,7 @@ Its modular architecture allows specialized agents to execute independent tasks 
 
 <a href="https://screenrec.com/share/NjbyQJ4cir" target="_blank">
 
-<img src="https://raw.githubusercontent.com/snehal395jadhav/I_AGENT_with_CREWAI/main/Screenshot.png" alt="Rate Limiter Nexus Demo" width="95%"/>
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_AGENT_with_CREWAI/main/Screenshot.png"  width="95%"/>
 
 </a>
 
